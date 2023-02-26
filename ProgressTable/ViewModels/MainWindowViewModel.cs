@@ -109,8 +109,8 @@ namespace ProgressTable.ViewModels
             });
             Students = new Student[]
             {
-                new Student{Name="Назипов Максим Русланович", Visual=0, Architecture=0, Networks=0, Calculate_Math=0, PI=0, Math=0, Electric=0},
-                new Student{Name="Шпилев Даниил Игоревич", Visual=2, Architecture=2, Networks=2, Calculate_Math=2, PI=2, Math=2, Electric=2},
+                new Student{Name="Sechenov Dmitriy Ivanovich", Visual=0, Architecture=0, Networks=0, Calculate_Math=0, PI=0, Math=0, Electric=0},
+                new Student{Name="Nechaev Sergey Andreevich", Visual=2, Architecture=2, Networks=2, Calculate_Math=2, PI=2, Math=2, Electric=2},
             };
             CheckAverage(students);
 
